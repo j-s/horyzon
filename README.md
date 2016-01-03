@@ -5,7 +5,6 @@ contributions welcome.
 
 - *contact*: j@horyzon.co
 - *www*: jacobhorne.co
-==================
 
 # Curated Resources
 
