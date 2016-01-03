@@ -3,8 +3,8 @@ future trajectories. explorations of distributed collaboration, decentralised ap
 
 contributions welcome.
 
-*contact*: j@horyzon.co
-*www*: jacobhorne.co
+- *contact*: j@horyzon.co
+- *www*: jacobhorne.co
 
 # Curated Resources
 ==================
@@ -18,7 +18,7 @@ contributions welcome.
 
 - *The General Theory of Decentralized Applications, Dapps* - https://github.com/DavidJohnstonCEO/DecentralizedApplications
 
-– *Model Distributed Collaborative Organizations* – https://fair.coop/?get_group_doc=50/1430309418-SWARMSTANFORDModelDCOTemplate.pdf
+- *Model Distributed Collaborative Organizations* – https://fair.coop/?get_group_doc=50/1430309418-SWARMSTANFORDModelDCOTemplate.pdf
 
 - *How Society Will Be Transformed By CryptoEconomics* – https://medium.com/@noahthorp/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c#.secghayu6
 
