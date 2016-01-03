@@ -3,6 +3,8 @@ future trajectories. explorations of distributed collaboration, decentralised ap
 
 contributions welcome.
 
+
+- *join the discussion*: http://slack.tmrrw.co
 - *contact*: j@horyzon.co
 - *www*: jacobhorne.co
 
@@ -22,6 +24,9 @@ contributions welcome.
 
 - *Distributed Governanace whitepapaer* – https://github.com/fractastical/distributed-governance/blob/master/whitepaper.md
 
+-
+
+## join the conversation at http://slack.tmrrw.co/
 
 
 
