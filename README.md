@@ -6,7 +6,7 @@ contributions welcome.
 
 - *join the discussion*: http://slack.tmrrw.co
 - *contact*: j@horyzon.co
-- *www*: jacobhorne.co
+- *www*: http://jacobhorne.co
 
 # Curated Resources
 
