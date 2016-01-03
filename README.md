@@ -5,9 +5,9 @@ contributions welcome.
 
 - *contact*: j@horyzon.co
 - *www*: jacobhorne.co
+==================
 
 # Curated Resources
-==================
 
 - *The value of App coins*: An open source analysis of App Coins, as a technical and economic means of price discovery, forms of expression, community building, and a model for rewarding actors that perform quantifiable valued added behaviors.  – https://github.com/DavidJohnstonCEO/TheValueofAppCoins
 
