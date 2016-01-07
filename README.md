@@ -10,6 +10,8 @@ contributions welcome.
 
 # Curated Resources
 
+- *Avoiding the pointless blockchain project* – http://www.multichain.com/blog/2015/11/avoiding-pointless-blockchain-project/
+
 - *The General Theory of Decentralized Applications, Dapps* - https://github.com/DavidJohnstonCEO/DecentralizedApplications
 
 - *The value of App coins*: An open source analysis of App Coins, as a technical and economic means of price discovery, forms of expression, community building, and a model for rewarding actors that perform quantifiable valued added behaviors.  – https://github.com/DavidJohnstonCEO/TheValueofAppCoins
