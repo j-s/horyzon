@@ -4,7 +4,7 @@ future trajectories. explorations of distributed collaboration, decentralised ap
 contributions welcome.
 
 
-- *join the discussion*: http://slack.tmrrw.co
+- *join the discussion*: http://slack.horyzon.co
 - *contact*: j@horyzon.co
 - *www*: http://jacobhorne.co
 
@@ -26,7 +26,7 @@ contributions welcome.
 
 -
 
-## join the conversation at http://slack.tmrrw.co/
+## join the conversation at http://slack.horyzon.co/
 
 
 
