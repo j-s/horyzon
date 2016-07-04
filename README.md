@@ -1,5 +1,5 @@
 # tmrrw
-future trajectories. explorations of distributed collaboration, decentralised apps and blockchain. 
+future trajectories. explorations of distributed collaboration, decentralised apps and blockchain.
 
 contributions welcome.
 
@@ -26,11 +26,6 @@ contributions welcome.
 
 - *Distributed Governanace whitepapaer* – https://github.com/fractastical/distributed-governance/blob/master/whitepaper.md
 
--
+- *Explaining Blockchain to traditional investors through growth capital* – https://blog.coinfund.io/explaining-blockchain-to-traditional-investors-through-growth-capital-2ca61971075c
 
 ## join the conversation at http://slack.horyzon.co/
-
-
-
-
-
